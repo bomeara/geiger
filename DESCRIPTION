@@ -3,7 +3,7 @@ Type: Package
 Title: Analysis of Evolutionary Diversification
 Version: 2.0.6
 Date: 2015-09-07
-Author: Luke Harmon <lukeh@uidaho.edu>, Jason Weir, Chad Brock, Rich
+Author: ME!, Luke Harmon <lukeh@uidaho.edu>, Jason Weir, Chad Brock, Rich
         Glor, Wendell Challenger, Gene Hunt, Rich FitzJohn, Matt Pennell, Graham Slater, Joseph Brown, Josef Uyeda, and Jon Eastman <jonathan.eastman@gmail.com>
 Maintainer: Matt Pennell <mwpennell@gmail.com>
 Depends: ape (>= 3.0-6), R (>= 2.15.0)
